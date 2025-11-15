@@ -1,0 +1,11 @@
+{
+  "name": "downloader",
+  "type": "module",
+  "dependencies": {
+    "express": "latest",
+    "node-fetch": "latest",
+    "fluent-ffmpeg": "latest",
+    "ffmpeg-static": "latest",
+    "form-data": "latest"
+  }
+}
